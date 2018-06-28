@@ -1,0 +1,31 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.mainFxmlClass {
+
+}
+
+.lbl {
+    color: white;
+    font-family: "Century Gothic", serif;
+    font-size: 20px;
+}
+
+.my-btn{
+    -fx-opacity: 0.7;
+}
+.my-btn:hover{
+    -fx-opacity: 1;
+}
+
+.my-btnAlg:hover{
+    -fx-opacity: 1;
+}
+
+.my-img{
+    -fx-opacity: 0.7;
+}
+.my-img:hover{
+    -fx-opacity: 1;
+}

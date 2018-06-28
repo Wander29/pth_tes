@@ -1,0 +1,35 @@
+/*
+ * Empty Stylesheet file.
+ */
+
+.mainFxmlClass {
+
+}
+
+.white {
+    color: white;
+    background-color: green !important;
+}
+
+.tab-pane {
+    -fx-tab-max-height: 0;
+} 
+.tab-pane .tab-header-area {
+    visibility: hidden;
+}
+
+.paneBtn{
+    -fx-opacity: 0.5;
+}
+
+.paneBtn:hover{
+    -fx-opacity: 1;
+}
+
+.panePoint{
+    -fx-opacity: 0.9;
+}
+
+.panePoint:hover{
+    -fx-opacity: 1;
+}
